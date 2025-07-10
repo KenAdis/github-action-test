@@ -30,7 +30,7 @@ jobs:
 
       # See where we are in the VM
       - run: pwd
-s
+
       # Run our test
       - name: Run test
         run: python3 test.py
