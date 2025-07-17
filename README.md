@@ -16,7 +16,7 @@ The workflow consists of the following jobs:
 
 This workflow is triggered by a `push` event to the repository.
 
-## Requirements
+## 📋 Requirements
 
 - Python 3
 - GitHub Actions enabled in the repository
